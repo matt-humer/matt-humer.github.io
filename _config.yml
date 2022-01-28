@@ -41,14 +41,10 @@ footer:
 social:
   - title: twitter
     url: http://twitter.com/jekyllrb
-  - title: linkedin
+  - title: linked-in
     url: https://www.linkedin.com/in/matt-humer/
-  - title: stack-overflow
-    url: 
-  - title: bitbucket
-    url: 
-  - title: github
-    url: http://github.com/matt-humer
+  - title: email
+    url: mailto:hello@matthumer.com
 
 # Postal address (add as many lines as necessary)
 address:
