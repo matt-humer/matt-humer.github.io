@@ -5,7 +5,7 @@ date: 2014-07-15
 img: game.png
 alt: image-alt
 project-date: August 2012
-client: Start Bootstrap
-category: Web Development
+client: UNH
+category: Certification
 description: With the ridiculous Katt Kennedy at his side, Matt Humer manage to get through an MBA program at UNH.  Katt is a ridiculous gamer who powered through making this site initially in 90 minutes on a bet.
 ---
