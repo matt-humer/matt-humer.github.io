@@ -41,9 +41,9 @@ footer:
 social:
   - title: twitter
     url: http://twitter.com/jekyllrb
-  - title: linked-in
+  - title: linkedin
     url: https://www.linkedin.com/in/matt-humer/
-  - title: email
+  - title: mail
     url: mailto:hello@matthumer.com
 
 # Postal address (add as many lines as necessary)
